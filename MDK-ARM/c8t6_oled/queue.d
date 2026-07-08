@@ -1,0 +1,15 @@
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+c8t6_oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+c8t6_oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+c8t6_oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+c8t6_oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+c8t6_oled\queue.o: ../Core/Inc/FreeRTOSConfig.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+c8t6_oled\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

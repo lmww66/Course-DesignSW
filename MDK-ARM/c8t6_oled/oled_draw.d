@@ -1,0 +1,10 @@
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_draw.c
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_draw.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_basic.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_color.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_buffer.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_config.h
+c8t6_oled\oled_draw.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+c8t6_oled\oled_draw.o: D:\keil5\ARM\ARMCC\Bin\..\include\math.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_bmp.h
+c8t6_oled\oled_draw.o: ..\BSP\oledlib\oled_font.h
